@@ -20,3 +20,4 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Personalizando elementos com acessórios
 - Convertendo HTML em JSX
 - Aplicando estilo em JSX
+- Extraindo Componentes
