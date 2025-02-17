@@ -13,3 +13,8 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Intalando Node
 - Projeto inicial
 - Começando a trabalhar com ReactJS
+- Entendendo oque é JSX
+- Imprimindo variáveis ​​JavaScript em JSX
+- Expressões JS abreviadas
+- Layouts típicos de componentes
+- Personalizando elementos com acessórios
